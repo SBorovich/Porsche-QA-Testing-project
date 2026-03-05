@@ -87,7 +87,7 @@
 </td>
 <td align="center" width="33%">
 
-<img src="сюда ссылку на картинку" width="100" style="border-radius: 50%;"/><br>
+<img src="https://serinegit.github.io/Blue-Origin-and-X-AI-project-page/img/team/Tatsiana.jpg" width="100" style="border-radius: 50%; border: 0px solid #43B02A;"/><br>
 **Tatsiana Lentz**<br>
 `Team Lead` · *Boxster*<br>
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/TatsianaLentz)
@@ -96,7 +96,7 @@
 </td>
 <td align="center" width="33%">
 
-<img src="сюда ссылку на картинку" width="100" style="border-radius: 50%;"/><br>
+<img src="https://github.com/SerineGit.png" width="100" style="border-radius: 50%; border: 0px solid #FF6C37;"/><br>
 **Serine Zargaryan**<br>
 `Tech Lead` · *Carrera S*<br>
 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](https://github.com/SerineGit)
@@ -110,69 +110,54 @@
 ---
 
 ## 🏁 QA Pit Lane Engineers — Das Fahrerlager
-
 <div align="center">
 <table>
 <tr>
 <td align="center">
-
-<img src="https://avatars.githubusercontent.com/u/39344112?v=4" width="70"/><br>
-**Name Surname**<br>
-[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](ссылка на github) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](ссылка на linkedin)
-
+<img src="https://avatars.githubusercontent.com/u/$(moonbek)" width="70"/><br>
+<b>Andrew Marchuk</b><br>
+<a href="https://github.com/atsservicegroup-hub"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" /></a> • <a href="https://www.linkedin.com/in/andrew-marchuk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
 </td>
 <td align="center">
-
-<img src="сюда ссылку на картинку" width="70"/><br>
-**Name Surname**<br>
-[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](ссылка на github) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](ссылка на linkedin)
-
+<img src="https://avatars.githubusercontent.com/LanSvet" width="70"/><br>
+<b>Lana Chovhan</b><br>
+<a href="https://github.com/LanSvet"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" /></a> • <a href="https://www.linkedin.com/in/lana-chovgan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
 </td>
 <td align="center">
-
-<img src="сюда ссылку на картинку" width="70"/><br>
-**Name Surname**<br>
-[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](ссылка на github) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](ссылка на linkedin)
-
+<img src="https://avatars.githubusercontent.com/lindaremizova-lab" width="70"/><br>
+<b>Linda Remizova</b><br>
+<a href="https://github.com/lindaremizova-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" /></a> • <a href="https://www.linkedin.com/in/lindaremizova/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
 </td>
 <td align="center">
-
-<img src="сюда ссылку на картинку" width="70"/><br>
-**Name Surname**<br>
-[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](ссылка на github) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](ссылка на linkedin)
-
+<img src="https://avatars.githubusercontent.com/aaaa8a9" width="70"/><br>
+<b>Mila Sushchuk</b><br>
+<a href="https://github.com/aaaa8a9"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" /></a> • <a href="https://www.linkedin.com/in/sushmila/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
 </td>
 </tr>
 <tr>
 <td align="center">
-
-<img src="сюда ссылку на картинку" width="70"/><br>
-**Name Surname**<br>
-[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](ссылка на github) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](ссылка на linkedin)
-
+<img src="https://avatars.githubusercontent.com/moonbek" width="70"/><br>
+<b>Oybek Tashpulatov</b><br>
+<a href="https://github.com/moonbek"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" /></a> • <a href="https://www.linkedin.com/in/oybek-tashpulatov/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
 </td>
 <td align="center">
-
-<img src="сюда ссылку на картинку" width="70"/><br>
-**Name Surname**<br>
-[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](ссылка на github) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](ссылка на linkedin)
-
+<img src="https://avatars.githubusercontent.com/polianinevgenii" width="70"/><br>
+<b>Evgenii Polianin</b><br>
+<a href="https://github.com/polianinevgenii"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" /></a> • <a href="https://www.linkedin.com/in/evgenii-polianin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
 </td>
 <td align="center">
-
-<img src="сюда ссылку на картинку" width="70"/><br>
-**Name Surname**<br>
-[<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />](ссылка на github) • [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" />](ссылка на linkedin)
-
+<img src="https://avatars.githubusercontent.com/SBorovich" width="70"/><br>
+<b>Sergiy Borovich</b><br>
+<a href="https://github.com/SBorovich"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" /></a> • <a href="https://www.linkedin.com/in/sergiy-borovich/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
 </td>
 <td align="center">
-
+<img src="https://via.placeholder.com/70" width="70"/><br>
+<b>Julia</b><br>
+<i>coming soon</i>
 </td>
 </tr>
 </table>
 </div>
-
----
 
 ## 📋 About the Project — Am Steuer
 
