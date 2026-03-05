@@ -161,9 +161,9 @@
 <a href="https://github.com/SBorovich"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" /></a> • <a href="https://www.linkedin.com/in/sergiy-borovich/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
 </td>
 <td align="center">
-<img src="https://via.placeholder.com/70" width="70"/><br>
+<img src="https://avatars.githubusercontent.com/u/244847786?v=4" width="70"/><br>
 <b>Julia</b><br>
-<i>coming soon</i>
+<a href="https://github.com/Julia-306"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" /></a> • <a href="https://www.linkedin.com/in/julia-bacherikova/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
 </td>
 </tr>
 </table>
